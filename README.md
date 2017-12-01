@@ -12,3 +12,4 @@ This is a simple test for a function which takes in an array of numbers and divi
 5. Run `npm test` again and if test fails.
 6. Refractor code.
 7. Run `npm test` again.
+8. Enter `npm start` in the terminal to run app.
